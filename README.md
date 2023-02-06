@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4b01o9a6d3w1tcty?svg=true)](https://ci.appveyor.com/project/QA-Netology/hw-2-2-selenide)
+
 ## Домашнее задание к занятию «2.2. Selenide»
 
 ### Задача - Заказ доставки карты
